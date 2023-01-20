@@ -1,6 +1,8 @@
 ### hola profe 👋
 
-This is how much I suffer:
+This is how much I suffer:  
+
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dag45684&layout=compact&langs_count=8&exclude_repo=miniomp)
 
 <!--
